@@ -4,6 +4,7 @@ import numpy as np
 from PIL import Image
 
 # Load model
+# ⚠️ Make sure to download waste_model.h5 and place it in this folder before running
 model = tf.keras.models.load_model("waste_model.h5")
 
 classes = ['Hazardous', 'Non-Recyclable', 'Organic', 'Recyclable']
