@@ -6,7 +6,7 @@
 Due to GitHub size limitations, the trained model file is not included in this repository.
 
 👉 Download the model from here:
-https://your-google-drive-link
+https://drive.google.com/file/d/18ygTn3E5G_orL1tRjuJJIeul9L6IG-_m/view?usp=sharing
 
 After downloading, place the file in the project folder before running the app.
 
