@@ -1,6 +1,14 @@
 🌱 AI-Based Smart Waste Management System
 
 ---
+## 📥 Download Model
+
+Due to GitHub size limitations, the trained model file is not included in this repository.
+
+👉 Download the model from here:
+https://your-google-drive-link
+
+After downloading, place the file in the project folder before running the app.
 
 📌 Overview
 
